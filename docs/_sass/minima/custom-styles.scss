@@ -23,3 +23,23 @@ body {
   text-align: center;
   font-size: 1.3rem;
 }
+
+.quick-link {
+  text-align: center;
+  font-size: 1.3rem;
+
+  img {
+    width: 64px;
+    height: 64px;
+  }
+
+  a {
+    color: #7A8528;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+      color: darkred;
+    }
+  }
+}
