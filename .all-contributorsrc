@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ajakov",
+      "name": "Aleksandar Jakovljevic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2115393?v=4",
+      "profile": "https://aleksandarjakovljevic.com/",
+      "contributions": [
+        "code",
+        "content",
+        "ideas",
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "HOW-MUCH-Labs.github.io",
+  "projectOwner": "HOW-MUCH-Labs"
+}
